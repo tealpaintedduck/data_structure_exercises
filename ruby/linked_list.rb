@@ -1,4 +1,5 @@
 # https://en.wikipedia.org/wiki/Linked_list
+# http://cslibrary.stanford.edu/103/LinkedListBasics.pdf
 
 class Node
   attr_accessor :data, :next
